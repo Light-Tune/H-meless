@@ -10,8 +10,6 @@
 
 ## 🧨 Fun Fact :
 
-<img align="left" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmIxM2UwcnozeDU1bXpnemVjNmxxZTNseW5oMXJjNjF0c3FwMDhoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXAXchxFzsVSqfoacv/giphy.giff" style="margin-right: 2rem;">
-
 • 🍃 I am currently learning lua and Node.js.<br/>
 • ❔ Ask me about <b>Discord Bots</b>, I am happy to help.<br/>
 • 🔎 Link to our game and publisher team  <a href="https://discord.gg/9NRW4a3Vnp"><b>Discord</b>
